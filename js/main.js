@@ -37,7 +37,7 @@
 		transitionDuration: 2500,
 		delay: 5000,
     	slides: [
-       	{ src: "src="https://api.mapbox.com/styles/v1/mapbox/basic-v8/static/-123.9,49.1659,10,0/1280x1014@2x?access_token=pk.eyJ1IjoidGJyb3duIiwiYSI6IlZvempyR3MifQ.UV3klqJHmrE9U6BRB7dENw" },
+       	{ src: "https://api.mapbox.com/styles/v1/mapbox/basic-v8/static/-123.9,49.1659,10,0/1280x1014@2x?access_token=pk.eyJ1IjoidGJyb3duIiwiYSI6IlZvempyR3MifQ.UV3klqJHmrE9U6BRB7dENw" },
         	{ src: "images/slides/02.jpg" },
         	{ src: "images/slides/01.jpg" }
     	]
