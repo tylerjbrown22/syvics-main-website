@@ -38,7 +38,7 @@
 		delay: 5000,
     	slides: [
        	{ src: "https://api.mapbox.com/styles/v1/mapbox/dark-v8/static/-123.9,49.1659,11.5,0/1280x1014@2x?access_token=pk.eyJ1IjoidGJyb3duIiwiYSI6IlZvempyR3MifQ.UV3klqJHmrE9U6BRB7dENw" },
-        	{ src: "images/slides/02.jpg" },
+        	{ src: "https://api.mapbox.com/styles/v1/mapbox/satellite-v8/static/-123.8,49.3159,9,0/1280x1014@2x?access_token=pk.eyJ1IjoidGJyb3duIiwiYSI6IlZvempyR3MifQ.UV3klqJHmrE9U6BRB7dENw" },
         	{ src: "images/slides/01.jpg" }
     	]
 	});
